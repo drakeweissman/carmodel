@@ -1,5 +1,3 @@
-from sklearn.model_selection import train_test_split
-from xgboost.sklearn import XGBRegressor
 import xgboost as xgb
 import streamlit as st
 import pandas as pd
